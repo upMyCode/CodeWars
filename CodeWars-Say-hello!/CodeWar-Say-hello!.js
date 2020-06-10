@@ -5,3 +5,5 @@ function greet(name) {
     }
     else return (`hello ${name}!`);
   }
+
+greet('John')
